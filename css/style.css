@@ -8,8 +8,8 @@
 
 /* --- 웹 폰트 정의 (Web Font Definition) --- */
 @font-face {
-    font-family: 'GowunBatang-Regular';
-    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/GowunBatang-Regular.woff') format('woff');
+    font-family: 'YoonChildfundkoreaManSeh';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408@1.0/YoonChildfundkoreaManSeh.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
     unicode-range: U+AC00-D7A3; /* 한글 유니코드 범위 */
@@ -27,13 +27,13 @@
     
     /* 색상 팔레트 */
     --color-primary: rgb(252, 141, 222);   /* 주요 강조 색상 (노랑) */
-    --color-link: rgb(0, 255, 246);       /* 링크 색상 (파랑) */
+    --color-link: rgb(7, 221, 164);       /* 링크 색상 (파랑) */
     --color-text-primary: rgb(0, 0, 0);   /* 기본 텍스트 색상 (검정) */
     --color-background-light: rgb(230, 230, 230); /* 밝은 배경색 (회색) */
     
     /* RGB 버전 (알파 투명도 사용 시) */
     --color-primary-rgb: 252, 141, 222;
-    --color-link-rgb: 0, 255, 246;   
+    --color-link-rgb: 7, 221, 164;   
     --color-text-primary-rgb: 0, 0, 0;
     --color-background-light-rgb: 230, 230, 230;
 
