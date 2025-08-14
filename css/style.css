@@ -170,6 +170,7 @@ a {
     box-sizing: border-box;
     transition: none; /* 모든 전환 효과 비활성화 */
     position: relative;
+    background: linear-gradient(to top, #e0c3fc, #E0FFE0);
 }
 
 /* --- 크기 조절 바 (Resizer Styles - Desktop) --- */
