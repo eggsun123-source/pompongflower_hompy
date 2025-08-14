@@ -153,7 +153,7 @@ a {
     overflow-y: auto; /* 내용이 넘치면 세로 스크롤바 생성 */
     box-sizing: border-box;
     transition: none; /* 모든 전환 효과 비활성화 */
-    background-color: var(--color-background-light); /* 밝은 배경색 */
+    background: linear-gradient(to bottom, #84fab0, #8fd3f4);
 }
 
 /* --- 우측 패널 (Right Panel) --- */
